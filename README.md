@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning to be a software developer.
+- 🌱 I’m working C# software developer.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me - stb.infoserv@gmail.com
 
