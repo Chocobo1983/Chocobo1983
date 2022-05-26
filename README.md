@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mykola!
 - 👀 I love programming!
-- 🌱 I’m working C# software developer.
+- 🌱 I’m working .Net software developer.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me - stb.infoserv@gmail.com
 
